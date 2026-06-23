@@ -1,0 +1,41 @@
+#
+
+# ros2_controllers.yaml
+#
+# Призначення:
+#
+# Налаштування ros2_control.
+#
+# Тут описується:
+#
+# controller_manager
+#
+# joint_state_broadcaster
+#
+# diff_drive_controller
+#
+#
+# diff_drive_controller:
+#
+# Ліві колеса:
+#
+# front_left_joint
+# rear_left_joint
+#
+#
+# Праві колеса:
+#
+# front_right_joint
+# rear_right_joint
+#
+#
+# wheel_radius
+#
+# wheel_separation
+#
+#
+# YAML потрібний для того,
+# щоб змінювати параметри
+# без зміни коду.
+#
+
